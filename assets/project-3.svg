@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 312" fill="none">
+  <rect width="600" height="312" fill="#0f172a"/>
+  <rect x="24" y="24" width="552" height="40" rx="8" fill="#1e293b"/>
+  <circle cx="44" cy="44" r="6" fill="#ef4444"/>
+  <circle cx="64" cy="44" r="6" fill="#eab308"/>
+  <circle cx="84" cy="44" r="6" fill="#22c55e"/>
+  <rect x="120" y="80" width="360" height="208" rx="12" fill="#1e293b"/>
+  <rect x="144" y="104" width="312" height="36" rx="8" fill="#334155"/>
+  <rect x="144" y="156" width="312" height="28" rx="6" fill="#0f172a" stroke="#334155"/>
+  <rect x="144" y="196" width="312" height="28" rx="6" fill="#0f172a" stroke="#22d3ee"/>
+  <rect x="144" y="236" width="312" height="28" rx="6" fill="#0f172a" stroke="#334155"/>
+  <text x="300" y="290" text-anchor="middle" fill="#64748b" font-family="Inter, sans-serif" font-size="16">Todo App</text>
+</svg>
